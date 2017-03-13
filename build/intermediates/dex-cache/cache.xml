@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_c946c13b6f0907b4c82bd5c3476ace3063564a8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_ed3bf808eea03e4e77470814bf9966536b943ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_92c8dc134077e2f107b5a06954e9610df5b40fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_51350233721a706f3963e87fea2c2359679d5b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android Studio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0_f2de7ae2c052b05147f72ffcceee4d0dad66d0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android Studio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\picasso-2.5.2_3a64621fa1fd634d6782672240a8b2dc6216e4b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_58722faf39a6413b4bc4453d3e6a4eeca892428f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android Studio\gradle\gradle-2.14.1\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_5ee87eec3e19d76d0d810561e097af5d4cc12eaf.jar" />
+    </item>
+
+</items>
